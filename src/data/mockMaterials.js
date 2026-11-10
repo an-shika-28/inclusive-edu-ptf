@@ -47,7 +47,7 @@ export const mockMaterials = [
     mimeType: "application/pdf",
     ownerId: "teacher01",
     ownerRole: "teacher",
-    visibility: "private",
+    visibility: "shared",
     createdAt: "2026-11-05T08:00:00Z",
     status: "processing",
     fileUrl: null
